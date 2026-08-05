@@ -2,7 +2,7 @@
 
 # ☕ Open POS
 
-**A modern, offline, open-source Point of Sale system for cafes, restaurants and retail stores.**
+**A modern, offline, open-source Point of Sale system for cafes and restaurants.**
 
 Built with **Python** and **Qt (PySide6)** · Runs 100% locally · No internet required · No subscription fees
 
