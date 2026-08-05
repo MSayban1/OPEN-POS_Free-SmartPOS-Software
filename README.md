@@ -163,7 +163,7 @@ All chart widgets (`BarChart`, `LineChart`, `PieChart`, `HBarChart`) are **hand-
 ### 1. Get the code
 
 ```bash
-git clone https://github.com/your-username/Open-POS.git
+git clone https://github.com/your-username/OPEN-POS---Free-SmartPOS-Software
 cd Open-POS
 ```
 
@@ -426,7 +426,7 @@ Open POS was designed and developed by **Muhammad Sayban** and is published unde
 the **Saban Productions** brand.
 
 - **Author:** Muhammad Sayban
-- **Brand:** Saban Productions
+- **Company:** Saban Productions
 - **Email:** saban.productions00@gmail.com
 - **License:** Public Domain (no restrictions)
 
