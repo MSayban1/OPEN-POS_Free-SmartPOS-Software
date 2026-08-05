@@ -43,9 +43,9 @@ Built with **Python** and **Qt (PySide6)** · Runs 100% locally · No internet r
 ## 🚀 Introduction
 
 **Open POS** is a complete point of sale application designed for small and medium
-businesses — cafes, restaurants, bakeries, tuck shops and retail counters. It was
-created by **Muhammad Sayban** under the **Saban Productions** brand to give shop
-owners a powerful, **free and open-source** alternative to expensive POS software.
+businesses — especially for cafes and restuarants. It was
+created by **Muhammad Sayban** under the **Saban Productions** company to give shop
+owners a basic and useful, **free and open-source** alternative to expensive POS software.
 
 Everything runs **entirely on your own computer**. There is no cloud, no account,
 no internet dependency and **no recurring fees**. All of your business data —
