@@ -423,7 +423,7 @@ Do whatever you want with it — free forever.
 ## 👨‍💻 Credits & Support
 
 Open POS was designed and developed by **Muhammad Sayban** and is published under
-the **Saban Productions** brand.
+the **Saban Productions**.
 
 - **Author:** Muhammad Sayban
 - **Company:** Saban Productions
